@@ -15,7 +15,7 @@
 - cookie，session，redis，nginx 反向代理
 - sql 注入，xss 攻击，加密
 - 日志，stream，crontab，readline
-- 线上知识点
+- pm2进程守护，系统崩溃自动重启；pm2启动多进程，充分利用cpu和内存；pm2自带日志记录功能
 
 ### server 和前端的区别（5 个区别）
 
